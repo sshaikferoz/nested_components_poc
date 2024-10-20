@@ -6,7 +6,6 @@ import { CalendarComponent } from './components/calendar/calendar.component';
 import { ImageComponent } from './components/image/image.component';
 import { Comb2Component } from './components/comb2/comb2.component';
 import { Comb1Component } from './components/comb1/comb1.component';
-
 @Component({
   selector: 'app-root',
   standalone: true,
